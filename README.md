@@ -10,13 +10,14 @@ Private working repository for the oxygen-vacancy descriptor analysis and manusc
 
 ## Running the analysis
 
+## Running the analysis
+
 The notebook is designed to run in **Google Colab**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/semason/CTCMO-O-Vacancy-Descriptor-Analysis/blob/main/oxygen_vacancy_ml_manuscript_validation%281%29.ipynb)
+Because this repository is currently private, open the notebook from the repository and then upload/open it in Colab manually.
 
 The complete workflow takes several hours to run. When prompted by the notebook, upload the CSV and XLSX data files included in this repository.
 
-The current notebook and accompanying datasets are being shared as the working analysis associated with the manuscript and should be treated as **work in progress**.
 
 ## Collaborator note
 
