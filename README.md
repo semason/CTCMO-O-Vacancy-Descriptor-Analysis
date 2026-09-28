@@ -1,6 +1,6 @@
 # CTCMO O Vacancy Descriptor Analysis
 
-Private working repository for the oxygen-vacancy descriptor analysis and manuscript-validation workflow for compositionally complex transition-metal oxides (CTCMOs).
+Repository for the oxygen-vacancy descriptor analysis and manuscript-validation workflow for compositionally complex transition-metal oxides (CTCMOs).
 
 ## Contents
 
